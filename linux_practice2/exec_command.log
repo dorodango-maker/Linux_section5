@@ -136,8 +136,8 @@
   136  git status
   137  git commit -m 'first commit'
   138  git config --global user.email "you@example.com"
-  139  git config --global user.email "tippy.gfop@gmail.com"
-  140  git config --global user.name "naoki_tsuchida"
+  139  git config --global user.email ""
+  140  git config --global user.name ""
   141  git commit -m 'first commit'
   142  git status
   143  git log
